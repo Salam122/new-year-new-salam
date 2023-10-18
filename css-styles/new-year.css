@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* main header section */
+header {
+    background-image: url(../images/banner/banner2.png);
+}
+
+/* All Thinks Are Possible If You believe star hear */
+.header-main {
+    padding: 216px 230px 100px 865px;
+    text-align: right;
+}
+
+.haader-title {
+    color: var(--Dark-01, #151414);
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 700;
+    margin-bottom: 24px;
+}
+
+.header-title-description {
+    color: var(--Dark-02, #444343);
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+
+.btn-primary {
+    width: 160px;
+    height: 64px;
+    border-radius: 5px;
+    background: #F15B22;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+/* All Thinks Are Possible If You believe end hear */
+
+.main-section {
+    display: flex;
+    align-items: center;
+    background: #FFF;
+    padding: 100px 350px 40px 115px;
+    gap: 70px;
+    margin-bottom: 50px;
+}
+
+.main-section-title {
+    color: var(--Dark-01, #151414);
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+.main-section-description {
+    color: var(--Dark-02, #444343);
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    margin-top: 25px;
+    margin-bottom: 16px;
+}
+
+.list-iteam {
+    color: var(--Dark-02, #0a911c);
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}
