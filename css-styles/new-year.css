@@ -72,3 +72,138 @@ header {
     font-style: normal;
     font-weight: 400;
 }
+
+/* another section of the main part */
+.plans-duty {
+    text-align: center;
+    margin-bottom: 130px;
+}
+
+.My-plan-title {
+    color: var(--Dark-01, #151414);
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+
+.my-skill-title {
+    olor: var(--Dark-01, #151414);
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.my-skill {
+    display: flex;
+    gap: 100px;
+    margin: 0 380px;
+}
+
+/* gradient-section */
+
+.gradient-name {
+    color: #FFF;
+    font-size: 30px;
+    font-weight: 700;
+    padding: 55px 620px 0 64px;
+    margin-bottom: 10px;
+}
+
+.btn1-primary {
+    border-radius: 5px;
+    background: #FFF;
+    width: 160px;
+    height: 64px;
+    color: #F15B22;
+
+    text-align: center;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.back-gradient {
+    background-image: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0.00) 100%), url(../images/watch.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 40px;
+    margin: 0 230px;
+    border-radius: 8px;
+    margin-bottom: 130px;
+}
+
+.gradient-color {
+    padding-left: 55px;
+    padding-bottom: 60px;
+}
+
+/* border-radius: 8px;
+background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0.00) 100%); */
+
+/* footer-section */
+.footer-section {
+    display: flex;
+    align-items: center;
+}
+
+.footer-main-title {
+    color: #F8F8F8;
+    font-size: 45px;
+    font-weight: 700;
+    margin-bottom: 16px;
+}
+
+.footer-title-description {
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 10px;
+}
+
+.email-id {
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 10px;
+}
+
+.mobail-id {
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 10px;
+}
+
+footer {
+    background: var(--Dark-01, #151414);
+}
+
+.salam {
+    padding-left: 155px;
+    padding-right: 400px;
+}
+
+.Subscribe-title {
+    color: #FFF;
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+.email {
+    background: var(--Dark-01, #151414);
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    color: var(--Dark-07, #F3F3F3);
+    border-radius: 8px;
+    border: 1px solid #FFF;
+    height: 45px;
+    width: 150px;
+    padding: 15px 50px 15px 15px;
+    margin-bottom: 20px;
+}
+.shes-pad{
+padding-top: 155px;
+padding-right: 400px;
+}
